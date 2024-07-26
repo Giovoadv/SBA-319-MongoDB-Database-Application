@@ -27,7 +27,7 @@ Make sure you have the following installed:
 
 
 Copy code
-git clone https://github.com/Giovoadv/SBA-318-Express-Server.git
+git clone https://github.com/Giovoadv/SBA-319-MongoDB-Database-Application.git
 
 2. Install dependencies:
 
